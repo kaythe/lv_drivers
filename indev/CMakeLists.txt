@@ -1,0 +1,1 @@
+target_sources(LVGL-Test PRIVATE    ${CMAKE_SOURCE_DIR}/lv_drivers/indev/evdev.c)
